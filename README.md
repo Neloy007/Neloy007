@@ -1,4 +1,4 @@
-👋 Hi, I'm Nazmul Alam (aka Neloy) — an aspiring Software Developer and enthusiastic problem solver.
+👋 Hi, I'm Nazmul Alam (Neloy) — an aspiring Software Developer and enthusiastic problem solver.
 
 💡 I’m passionate about turning ideas into code and continuously sharpening my skills through hands-on learning.
 🧠 Currently diving into [insert your current focus – e.g., Python, Web Development, Data Structures, etc.], with a strong interest in clean code, algorithms, and scalable systems.
