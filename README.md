@@ -1,8 +1,20 @@
-👋 Hi, I'm Nazmul Alam (Neloy) — an aspiring Software Developer and enthusiastic problem solver.
+# 👋 Hi, I'm Neloy007
 
-💡 I’m passionate about turning ideas into code and continuously sharpening my skills through hands-on learning.
-🧠 Currently diving into [insert your current focus – e.g., Python, Web Development, Data Structures, etc.], with a strong interest in clean code, algorithms, and scalable systems.
-🛠️ Tools & languages I’m working with: [e.g., Git, VS Code, JavaScript, C++, etc.]
-🌱 Always learning, always building — one line of code at a time.
+## 💼 About Me
+- 🌱 I’m currently learning Android Mobile App Development
+- 💬 Ask me about Android with Kotlin
+- 📫 How to reach me: himadro02@gmail.com
 
-Let’s connect and grow together!
+## 🛠️ Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+<!-- Add more as needed -->
+
+## 📈 GitHub Stats:
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neloy007&show_icons=true&hide_title=true)
+
+## 🔗 Links:
+- [Portfolio Website](https://yourwebsite.com)
+- [LinkedIn](https://linkedin.com/in/neloy007)
+
