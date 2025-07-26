@@ -1,20 +1,73 @@
-# 👋 Hi, I'm Neloy007
+# 👋 Hi, I’m Nazmul Alam (Neloy007)
 
-## 💼 About Me
-- 🌱 I’m currently learning Android Mobile App Development
-- 💬 Ask me about Android with Kotlin
-- 📫 How to reach me: himadro02@gmail.com
 
-## 🛠️ Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-<!-- Add more as needed -->
 
-## 📈 GitHub Stats:
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neloy007&show_icons=true&hide_title=true)
+## 🚀 About Me
 
-## 🔗 Links:
-- [Portfolio Website](https://yourwebsite.com)
-- [LinkedIn](https://linkedin.com/in/neloy007)
+- Python and Java programming educator
+- Skilled in web and mobile development
+- Passionate about backend systems and data analytics
+- Open to collaboration on interesting coding projects and tools
+
+📫 How to reach me: **himadro02@gmail.com** :contentReference[oaicite:2]{index=2}
+
+---
+
+## 🛠️ What I Work On
+
+- **Backend**: Django, Spring Boot  
+- **Frontend / Mobile**: Android (Jetpack Compose), Flutter  
+- **Data Analytics / NLP**: Analyzing datasets, building ML models  
+
+---
+
+## 🌱 I’m Learning
+
+- Deepening expertise in **NLP** applications  
+- Exploring data pipelines and analytics workflows  
+- Contributing to open-source projects and GitHub actions  
+
+---
+
+## 💬 Let’s Talk About
+
+I'm always open for conversations about **web development**, **app architecture**, **machine learning**, **project collaboration**, and **teaching programming** :contentReference[oaicite:3]{index=3}.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=musfiqur552608&show_icons=true&theme=radical)
+
+---
+
+## 📚 Featured Projects
+
+*(Fill in with a few repo highlights)*
+
+| Project | Stack | Description |
+|--------|--------|-------------|
+| College-App-Jetpack-Compose | Kotlin / Compose | Showcase Android education app |
+| Another‑repo‑name | Django / Python | Backend service or ML project |
+| Flutter‑Mobile‑App | Flutter | Cross‑platform mobile app |
+
+---
+
+## 🎯 Goals
+
+- Publish a portfolio of ML‑powered projects
+- Mentor students on backend or mobile development
+- Grow contributions in open‑source and teaching materials
+
+---
+
+## 💡 Fun Fact
+
+⚡ #coding is my fuel.
+
+---
+
+> Made with ❤️ by Nazmul Alam  
+> 📧 Email: himadro02@gmail.com  
+
 
