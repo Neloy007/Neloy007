@@ -48,7 +48,6 @@ I'm always open for conversations about **app architecture**, **machine learning
 |--------|--------|-------------|
 | College-App-Jetpack-Compose | Kotlin / Compose | Showcase Android education app |
 | Another‑repo‑name | Django / Python | Backend service or ML project |
-| Flutter‑Mobile‑App | Flutter | Cross‑platform mobile app |
 
 ---
 
