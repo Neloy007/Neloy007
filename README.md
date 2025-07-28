@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Nazmul Alam (Neloy007)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&size=24&width=500&lines=Hello+%F0%9F%91%8B+I'm+YourName;Android+Developer+%7C+Flutter+%7C+Django;Love+to+Build+Cool+Projects!)](https://git.io/typing-svg)
+
 
 
 ## 🚀 About Me
