@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&size=24&width=500&lines=Hello+%F0%9F%91%8B+I'm+Nazmul+Alam;Android+Developer+%7C+Flutter+%7C+Django;Love+to+Build+Cool+Projects!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&size=24&width=500&lines=Hello+%F0%9F%91%8B+I'm+Nazmul+Alam;Android+Developer+%7C+Kotlin+%7C+Django;Love+to+Build+Cool+Projects!)](https://git.io/typing-svg)
 
 
 
@@ -12,21 +12,17 @@
 - Passionate about backend systems and data analytics
 - Open to collaboration on interesting coding projects and tools
 
-📫 How to reach me: **himadro02@gmail.com** :contentReference[oaicite:2]{index=2}
-
+📫 How to reach me: **himadro02@gmail.com** 
 ---
 
 ## 🛠️ What I Work On
 
-- **Backend**: Django, Spring Boot  
-- **Frontend / Mobile**: Android (Jetpack Compose), Flutter  
-- **Data Analytics / NLP**: Analyzing datasets, building ML models  
+- **Frontend / Mobile**: Android (Jetpack Compose) 
 
 ---
 
 ## 🌱 I’m Learning
 
-- Deepening expertise in **NLP** applications  
 - Exploring data pipelines and analytics workflows  
 - Contributing to open-source projects and GitHub actions  
 
@@ -34,7 +30,7 @@
 
 ## 💬 Let’s Talk About
 
-I'm always open for conversations about **web development**, **app architecture**, **machine learning**, **project collaboration**, and **teaching programming** :contentReference[oaicite:3]{index=3}.
+I'm always open for conversations about **app architecture**, **machine learning**, **project collaboration**, and **teaching programming**
 
 ---
 
