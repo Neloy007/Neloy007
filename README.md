@@ -20,8 +20,7 @@ I participated in many programming contests on online and offline platforms.
 </div>
 
 
-- 🔭 I’m currently working on Daffodil International Professional Training Institute And FreEdu
-- 🌱 I’m currently working on NLP, Django, Spring Boot, Data Analytics, Android App Development(Java & Kotlin)
+- 🌱 I’m currently working on Android App Development(Java & Kotlin)
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Backend Development and Data Analytics
 - 💬 Ask me about Web Development and App development
