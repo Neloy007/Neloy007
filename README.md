@@ -15,65 +15,21 @@ I'm really energetic, & a great communicator I am punctual, dependable, and can 
 My passion is programming and the field of machine learning. So, I want to be a Full-stack developer.
 I participated in many programming contests on online and offline platforms.
 
-<div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=635&lines=6%2B+Years+Experience+in+Java+%26+Kotlin[...]
-</div>
+# 💫 About Me:
+👋 Hi, I'm Nazmul Alam<br><br>🚀 Android & Cross-Platform Developer<br>I’m currently working with Compose Multiplatform, building shared UI and logic for Android, iOS, Desktop, and Web. I enjoy exploring modern development tools, writing clean architecture, and creating apps that solve real-world problems.<br><br>🔧 Tech I’m Working With<br><br>Compose Multiplatform<br><br>Kotlin / KMM<br><br>Jetpack Compose<br><br>Android Studio<br><br>Firebase<br><br>Learning more about iOS development and multiplatform workflows<br><br>🎯 Current Focus<br><br>Building production-ready apps using Compose Multiplatform<br><br>Structuring scalable projects with MVVM + Clean Architecture<br><br>Improving app UI/UX with modern design patterns<br><br>🌱 What I’m Learning<br><br>Advanced Kotlin Multiplatform techniques<br><br>Improving build setup for multiplatform projects<br><br>Swift basics for better platform integration<br><br>📫 Connect With Me<br><br>GitHub: You’re already here!<br><br>neloymac24@gmail.com
 
 
-- 🌱 I’m currently working on Android App Development(Java & Kotlin)
-- 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with Backend Development and Data Analytics
-- 💬 Ask me about Web Development and App development
-- 📫 How to reach me: Email: neloymac24@gmail.com
-- 😄 Pronouns: Nazmul
-- ⚡ Fun fact: #coding 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nazmul Alam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thehimadro7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nazmul-alam-616260330/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neloymac24@gamil.com) 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Neloy007&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Neloy007&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neloy007&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Connect with me:
-[<img align="left" alt="Twitter" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536424.png" />](https://twitter.com/thehimadro)
-[<img align="left" alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">](https://www.linkedin.co[...]
-[<img align="left" alt="ResearchGate" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-researchgate-3629614-3031082.png">](https://www.researchgate.net/profile/Nazmul-Alam-12[...]
-[<img align="left" alt="youtube" width="40px" height="40" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png">](https://www.youtube.com/@freedu2023)
-<br><br><br>
+---
+[![](https://visitcount.itsvg.in/api?id=Neloy007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://github.com/neloy007/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=neloy007)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neloy007)](https://github.com/neloy007)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=neloy0078&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=neloy007)
-
-![GitHub metrics](https://metrics.lecoq.io/neloy007)
-
-<div align="center">
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neloy0078&theme=radical" alt="Nazmul Alam's GitHub Contribution" />
-</div>
-<hr/>
-
-![Nazmul Alam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=neloy0078&custom_title=Nazmul%20Alam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&l[...]
-
-</div>
-
-![Visitor Count](https://profile-counter.glitch.me/musfiqur552608/count.svg)
-</br>
-</br>
-![Nazmul Alam](https://rushter.com/counter.svg)
-
-
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-
-> Made with ❤️ by Nazmul Alam  
-> 📧 Email: himadro02@gmail.com  
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
